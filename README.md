@@ -1,9 +1,7 @@
 # Hello World! I'm Rafa, wanna meet me?
 
 <table>
-  <img src="https://img.icons8.com/color/2x/html-5.png" width="120" alt="HTML5">
-  <img src="https://img.icons8.com/color/2x/css3.png" width="120" alt="CSS3">
-  <img src="https://img.icons8.com/nolan/2x/javascript.png" width="120" alt="JavaScript">
+  <img src="https://img.icons8.com/color/2x/html-5.png" width="120" alt="HTML5"><img src="https://img.icons8.com/color/2x/css3.png" width="120" alt="CSS3"><img src="https://img.icons8.com/nolan/2x/javascript.png" width="120" alt="JavaScript">
 </table>
 
 <div> 
